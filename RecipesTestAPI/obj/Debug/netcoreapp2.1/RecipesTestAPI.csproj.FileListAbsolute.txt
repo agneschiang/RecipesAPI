@@ -1,0 +1,14 @@
+C:\Users\Agnes\Desktop\RecipesTestAPI\RecipesTestAPI\bin\Debug\netcoreapp2.1\RecipesTestAPI.deps.json
+C:\Users\Agnes\Desktop\RecipesTestAPI\RecipesTestAPI\bin\Debug\netcoreapp2.1\RecipesTestAPI.runtimeconfig.json
+C:\Users\Agnes\Desktop\RecipesTestAPI\RecipesTestAPI\bin\Debug\netcoreapp2.1\RecipesTestAPI.runtimeconfig.dev.json
+C:\Users\Agnes\Desktop\RecipesTestAPI\RecipesTestAPI\bin\Debug\netcoreapp2.1\RecipesTestAPI.dll
+C:\Users\Agnes\Desktop\RecipesTestAPI\RecipesTestAPI\bin\Debug\netcoreapp2.1\RecipesTestAPI.pdb
+C:\Users\Agnes\Desktop\RecipesTestAPI\RecipesTestAPI\obj\Debug\netcoreapp2.1\RecipesTestAPI.csproj.CoreCompileInputs.cache
+C:\Users\Agnes\Desktop\RecipesTestAPI\RecipesTestAPI\obj\Debug\netcoreapp2.1\RecipesTestAPI.RazorAssemblyInfo.cache
+C:\Users\Agnes\Desktop\RecipesTestAPI\RecipesTestAPI\obj\Debug\netcoreapp2.1\RecipesTestAPI.RazorAssemblyInfo.cs
+C:\Users\Agnes\Desktop\RecipesTestAPI\RecipesTestAPI\obj\Debug\netcoreapp2.1\RecipesTestAPI.AssemblyInfoInputs.cache
+C:\Users\Agnes\Desktop\RecipesTestAPI\RecipesTestAPI\obj\Debug\netcoreapp2.1\RecipesTestAPI.AssemblyInfo.cs
+C:\Users\Agnes\Desktop\RecipesTestAPI\RecipesTestAPI\obj\Debug\netcoreapp2.1\RecipesTestAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Agnes\Desktop\RecipesTestAPI\RecipesTestAPI\obj\Debug\netcoreapp2.1\RecipesTestAPI.dll
+C:\Users\Agnes\Desktop\RecipesTestAPI\RecipesTestAPI\obj\Debug\netcoreapp2.1\RecipesTestAPI.pdb
+C:\Users\Agnes\Desktop\RecipesTestAPI\RecipesTestAPI\obj\Debug\netcoreapp2.1\RecipesTestAPI.csprojAssemblyReference.cache
